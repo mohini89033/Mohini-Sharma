@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Mohini Sharma 4407796.
 
 [Link to another page](./another-page.html).
 
